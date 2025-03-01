@@ -52,4 +52,4 @@ Automated lookups: Accesses website technology stacks via API.
 Wappalyzer integrates with tools such as Chrome, Firefox, Edge, Safari, Salesforce, HubSpot, Pipedrive, Semrush, Pabbly, Zapier, Make, and Gmail.
 
 
-
+---
