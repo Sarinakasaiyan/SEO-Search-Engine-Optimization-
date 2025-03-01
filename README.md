@@ -2,6 +2,12 @@
 
 is a set of technical and content-related activities and strategies aimed at improving the position and ranking of a website in search engine results pages (SERPs) such as Google, Bing, and Yahoo.
 
+<center>
+
+![f3ea02f73806dd8e340d2db4d8405c78](https://github.com/user-attachments/assets/033ef4a5-6c67-47af-a49d-52cd2696f9df)
+
+</center>
+
 Key aspects of SEO include:
 
 <h2>1. On-page optimization:</h2>
