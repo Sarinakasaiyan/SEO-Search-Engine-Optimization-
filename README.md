@@ -54,5 +54,6 @@ Wappalyzer integrates with tools such as Chrome, Firefox, Edge, Safari, Salesfor
 
 
 ---
+---
 
 ---
