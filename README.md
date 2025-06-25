@@ -1,3 +1,4 @@
+---
 <h2>SEO (Search Engine Optimization)</h2>
 
 is a set of technical and content-related activities and strategies aimed at improving the position and ranking of a website in search engine results pages (SERPs) such as Google, Bing, and Yahoo.
